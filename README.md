@@ -33,9 +33,6 @@ if sentiment['compound'] > 0:
 else:
     print("\nInsight: The review tone is neutral or negative.")
 ```
-OUTPUT:
-
-<img width="1005" height="168" alt="Screenshot 2026-03-19 at 12 08 32 AM" src="https://github.com/user-attachments/assets/63133e67-fda8-439e-af3e-b9b578f5d6b8" />
 
 CODE FOR NEGATIVE REVIEW:
 ```python
